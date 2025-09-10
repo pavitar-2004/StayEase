@@ -11,16 +11,16 @@ StayEase is a responsive, single-page hotel booking website that allows users to
 
 **Image Placeholders:** The project includes fallback placeholders for images and videos, ensuring the layout remains intact even if the original assets are not available.
 
-Getting Started
+**Getting Started**
 Since the entire website is contained within a single index.html file, getting started is very straightforward.
 
-**Download the file:** Download the index.html file to your computer.
+**Download the file:** Download the index.html file to your computer and extract assets folder too.
+**
+Open in a browser:** Simply open the file in your preferred web browser. All HTML, CSS, and JavaScript are self-contained.
 
-Open in a browser: Simply open the file in your preferred web browser. All HTML, CSS, and JavaScript are self-contained.
+**Note:** For the best experience, you may want to create an assets folder in the same directory as the index.html file and place the images and video there. Placeholders are already included in the code if you don't have the original assets.
 
-Note: For the best experience, you may want to create an assets folder in the same directory as the index.html file and place the images and video there. Placeholders are already included in the code if you don't have the original assets.
-
-Local Login Credentials:
+**Local Login Credentials:**
 When running the project locally, you can use the following credentials to test the login functionality:
 
 **Email: admin@example.com
